@@ -31,7 +31,7 @@ Cette application mobile Flutter communique avec un module ESP32 via WiFi pour s
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/tanguy-kabore/gas-detector.git
+   git clone https://github.com/Alphaoumarleno1/gas-detector.git
    ```
 
 2. Accédez au répertoire du projet :
